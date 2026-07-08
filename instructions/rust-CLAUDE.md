@@ -1,0 +1,1 @@
+For Rust, always run clippy pedantic to see if our code follows official recommendations.
